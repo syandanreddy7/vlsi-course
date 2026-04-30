@@ -1,0 +1,16 @@
+# Log files
+*.log
+*.rpt
+*.jou
+
+# Tool-generated temp files
+*.bak
+*.tmp
+*.lock
+
+# Simulation directories (usually better to re-generate)
+sim/
+work/
+
+# System files
+.DS_Store
