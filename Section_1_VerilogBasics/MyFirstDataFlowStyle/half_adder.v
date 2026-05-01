@@ -1,4 +1,4 @@
-module halfAdder (sum, carry,a,b);
+module halfAdder_df (sum, carry,a,b);
     output sum, carry; // Outputs are 'wire' by default
     input a, b;
     
